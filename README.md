@@ -24,8 +24,8 @@ control schemes as a result of their
 flexibility.
 
 # Prototype of a leg with nitinol and silicones 
-A prototype of the robot leg was build using nitinol 
-and silicones. 
+A prototype of the robot leg was built using nitinol 
+and silicones. (add more description about the test setting)
 # Test results and conclusion
 The results demonstrate the feasibility of
 an underwater soft robot. While an
