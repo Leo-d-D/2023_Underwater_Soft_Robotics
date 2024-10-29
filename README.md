@@ -26,6 +26,7 @@ flexibility.
 # Prototype of a leg with nitinol and silicones 
 Prototypes of a robot leg were built and tested for range of motion using nitinol 
 and silicones. In addition, the entire proposed robot was modeled and simulated under high water pressure conditions.
+The package contains the ***CAD*** design and code.
 
 # Test results and conclusion
 The results demonstrate the feasibility of
